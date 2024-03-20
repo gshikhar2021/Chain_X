@@ -1,0 +1,73 @@
+List<Map<String, dynamic>> dummyProductData = [
+  {
+    'name': 'Milk',
+    'price': 15,
+    'description': '1 Gallon of Fresh Milk',
+    'category': 'Dairy',
+    'brand': 'Farm Fresh',
+  },
+  {
+    'name': 'Bread',
+    'price': 20,
+    'description': 'White Bread Loaf',
+    'category': 'Bakery',
+    'brand': "Baker's Delight",
+  },
+  {
+    'name': 'Eggs',
+    'price': 10,
+    'description': 'Dozen Large Eggs',
+    'category': 'Dairy',
+    'brand': 'Eggcellent Farms',
+  },
+  {
+    'name': 'Bananas',
+    'price': 6,
+    'description': 'Per Pound of Fresh Bananas',
+    'category': 'Produce',
+    'brand': 'Fruit Paradise',
+  },
+  {
+    'name': 'Cereal',
+    'price': 10,
+    'description': 'Box of Crunchy Cereal',
+    'category': 'Breakfast',
+    'brand': 'Cereal Delight',
+  },
+  {
+    'name': 'Orange Juice',
+    'price': 25,
+    'description': '64oz Fresh Orange Juice',
+    'category': 'Beverages',
+    'brand': 'Citrus Squeeze',
+  },
+  {
+    'name': 'Apples',
+    'price': 35,
+    'description': 'Bag of Red Apples',
+    'category': 'Produce',
+    'brand': 'Apple Harvest',
+  },
+  {
+    'name': 'Pasta',
+    'price': 20,
+    'description': '16oz Pack of Spaghetti',
+    'category': 'Pasta',
+    'brand': 'Pasta Supreme',
+  },
+  {
+    'name': 'Toothpaste',
+    'price': 50,
+    'description': 'Toothpaste with Fluoride',
+    'category': 'Personal Care',
+    'brand': 'FreshSmile',
+  },
+  {
+    'name': 'Shampoo',
+    'price': 100,
+    'description': 'Bottle of Shampoo',
+    'category': 'Personal Care',
+    'brand': 'SilkyLocks',
+  },
+  // Add more dummy product entries here...
+];
